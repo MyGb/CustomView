@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="statusBar">
+        <attr name="pointSelectedColor" format="color" />
+        <attr name="pointUnselectedColor" format="color" />
+        <attr name="textSelectedColor" format="color" />
+        <attr name="textUnselectedColor" format="color" />
+        <attr name="pointNumber" format="integer" />
+        <attr name="lineColor" format="color" />
+    </declare-styleable>
+</resources>
